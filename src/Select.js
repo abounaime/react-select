@@ -152,7 +152,7 @@ const Select = React.createClass({
 			openAfterFocus: false,
 			optionComponent: Option,
 			pageSize: 5,
-			placeholder: 'Select...',
+			placeholder: 'Select an user ...',
 			required: false,
 			scrollMenuIntoView: true,
 			searchable: true,
